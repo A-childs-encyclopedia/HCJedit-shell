@@ -1,18 +1,17 @@
 ## Overview
 
-This is the CEF3-based application shell for [Brackets](https://github.com/brackets-cont/brackets). 
+This is the CEF3-based application shell for [HCJedit](https://github.com/brackets-cont/brackets). 
 
-Please read the main [README in the brackets repo](https://github.com/brackets-cont/brackets/blob/master/README.md) 
-for general information about Brackets.
+Please read the main [README in the HCJedit repo](https://github.com/a-childs-encyclopedia/-HCJedit-/blob/master/README.md) 
+for general information about HCJedit.
 
 If you are interested in contributing to this shell, let us know on the 
-[Brackets Discord Server](https://discord.gg/rBpTBPttca), 
-or on the [Brackets Continued Matrix Space](https://matrix.to/#/#brackets-continued:scanuproductions.com).
+[HCJedit Discord Server](https://discord.gg/HzeMstfCdm), 
 
 If you run into any issues with this new shell, please file a bug in the 
-[brackets issue tracker](https://github.com/brackets-cont/brackets/issues).
+[HCJedit issue tracker](https://github.com/a-childs-encyclopedia/-HCJedit-/issues).
 
-_Note: The brackets-shell is only maintained for use by the Brackets project. Although some people have 
+_Note: The HCJedit-shell is only maintained for use by the HCJedit project. Although some people have 
 definitely had success using it as an app shell for other projects, we don't provide any official 
 support for that and we haven't done a ton of work to make the app shell easily reusable. Many people 
 will likely find it easier to use a project like [NW.js](https://github.com/nwjs/nw.js/) or [electron](https://github.com/atom/electron), which is more generic by design._
@@ -35,4 +34,4 @@ The preferences are stored in `{USER}/Library/Application Support/Brackets/cef_d
 
 ## Building
 
-Information on building the app shell can be found on the [brackets-shell wiki](https://github.com/brackets-cont/brackets-shell/wiki/Building-brackets-shell).
+Information on building the app shell can be found on the [HCJedit-shell wiki](https://github.com/brackets-cont/brackets-shell/wiki/Building-brackets-shell).
