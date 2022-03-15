@@ -1,6 +1,6 @@
 ## Overview
 
-This is the CEF3-based application shell for [HCJedit](https://github.com/brackets-cont/brackets). 
+This is the CEF3-based application shell for [HCJedit](https://github.com/a-childs-encyclopedia/-HCJedit-). 
 
 Please read the main [README in the HCJedit repo](https://github.com/a-childs-encyclopedia/-HCJedit-/blob/master/README.md) 
 for general information about HCJedit.
