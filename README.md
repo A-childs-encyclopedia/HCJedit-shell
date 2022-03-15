@@ -6,7 +6,7 @@ Please read the main [README in the HCJedit repo](https://github.com/a-childs-en
 for general information about HCJedit.
 
 If you are interested in contributing to this shell, let us know on the 
-[HCJedit Discord Server](https://discord.gg/HzeMstfCdm), 
+[HCJedit Discord Server](https://discord.gg/uh7sNnbE3B), 
 
 If you run into any issues with this new shell, please file a bug in the 
 [HCJedit issue tracker](https://github.com/a-childs-encyclopedia/-HCJedit-/issues).
